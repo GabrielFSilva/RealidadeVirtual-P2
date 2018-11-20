@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bummarker" size="1.000000 1.000000" />
+    <ImageTarget name="2G" size="1.000000 0.699659" />
+    <ImageTarget name="2" size="1.000000 0.699659" />
+    <ImageTarget name="1" size="1.000000 0.698805" />
+    <ImageTarget name="MousePad" size="10.000000 6.666667" />
+    <ImageTarget name="Carteira" size="10.000000 5.625000" />
+  </Tracking>
+</QCARConfig>
